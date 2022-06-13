@@ -1,1 +1,17 @@
 /* Write your CSS here! */
+html {
+    margin: 20px;
+    padding: 1px;
+  }
+  body {
+    margin: 8px;
+    display: block;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  #testP {
+    color: green;
+  }
